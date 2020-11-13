@@ -1,10 +1,9 @@
 # Employee Management System
 
-![ERP](ERP.gif)
 
 
 ## Overview
-An employee management system consisting of crucial work-related and important personal information about employees. Human Resources (HR) can manage their employees efficiently using this web application.
+An employee management system using React JS and it helps in managing employee data.
 
 ## Purpose
 I created an online employee management system web application that will allow users can add, edit, update, search and delete employees. It will also allow Admin update code and assigned sections using an Admin dashboard (Admin page will be implemented in the future).
@@ -38,12 +37,7 @@ I created an online employee management system web application that will allow u
 &nbsp; &nbsp; * REST API <br />
 &nbsp; &nbsp; * React-Table <br />
 &nbsp; &nbsp; * React-Bootstrap <br />
-&nbsp; &nbsp; * Axios <br />
-&nbsp; &nbsp; * Cors <br />
-&nbsp; &nbsp; * Nodemon <br />
-&nbsp; &nbsp; * Styled-components <br />
-&nbsp; &nbsp; * ESLint <br />
-&nbsp; &nbsp; * Prettier <br />
+
 
 ## How to run:
 
